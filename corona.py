@@ -20,3 +20,10 @@ while True:
         break
     t.hideturtle()
 turtle.done()
+
+
+
+
+
+
+
